@@ -1,0 +1,6 @@
+interface:
+  display_name: "Crayon Crew Illustrations"
+  short_description: "Generate consistent hand-drawn crayon-style blog illustrations with a recurring character cast"
+  default_prompt: "Use $crayon-crew-illustrations to design and generate hand-drawn illustrations for this article."
+policy:
+  allow_implicit_invocation: true
