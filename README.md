@@ -101,16 +101,16 @@ Eight recurring characters, fully specified in `crayon-crew-illustrations/refere
 
 | Character | Role | Cast them for |
 |---|---|---|
-| **Penny** | The maker — bob hair, yellow glasses, sailor blouse, giant pencil | Creating, building, executing |
-| **Fern** | The thinker — beanie, floral shirt, striped pants, always lounging | Thinking, reading, being stuck, reacting |
-| **Margo** | The messenger — curly hair, marigold beret, daisy dress, giant envelope | Publishing, delivering, handoffs |
-| **Echo** | The listener — long pale hair, headphones, harlequin checkers | Gathering input, filtering, feedback |
+| **Penny** | The maker — messy bun with a pencil in it, round glasses, marigold pinafore, giant pencil | Creating, building, executing |
+| **Fern** | The thinker — fluffy curls, squiggle sweater, giant tea mug, thought scribbles | Thinking, reading, being stuck, reacting |
+| **Margo** | The messenger — tall and elegant, side-ponytail with ribbon, daisy skirt, giant envelope | Publishing, delivering, handoffs |
+| **Echo** | The listener — petite, floor-length pale braids, headphones, checkerboard top | Gathering input, filtering, feedback |
 | **Otto** | The builder — mustache, flat cap, polka-dot shirt, overalls, giant wrench | Fixing, assembling, infrastructure, maintenance |
 | **Spark** | The tech guy — goatee, marigold glasses, honeycomb jacket, glowing arc disc + drone | Inventing / demos / prototypes only — not every tech shot |
 | **Milo** | The explorer — curly hair, neckerchief, zigzag sweater, giant magnifying glass | Searching, investigating, discovery, roadmaps |
-| **Doodle** | The dog — marigold coat, black spots, pencil in mouth | Fetching, automation, comic relief |
+| **Doodle** | The dog — scruffy white coat, marigold patches, scroll in mouth | Fetching, automation, comic relief |
 
-Their appearance never changes; their poses, props, and jobs change with every article. The eight images in `crayon-crew-illustrations/assets/style-references/` are the canonical look — the skill attaches them as style references on every generation, which is what keeps the output consistent. References `01`–`05` are Tubik artwork from [dribbble.com/tubik_arts](https://dribbble.com/tubik_arts); `06`–`08` extend the cast in the same style.
+Their appearance never changes; their poses, props, and jobs change with every article. The eight images in `crayon-crew-illustrations/assets/style-references/` are the canonical look — the skill attaches them as style references on every generation, which is what keeps the output consistent. All eight are original references generated for this skill.
 
 ## Example output
 
@@ -164,13 +164,13 @@ Prompt: *“stop tell your ai what to do, teach them with skills instead”*
 
 ![Orders vs skills](output-examples/teach-ai-with-skills-illustrations/01-orders-vs-skills.png)
 
-#### Sew the skill
+#### Fold the skill
 
-![Sew the skill](output-examples/teach-ai-with-skills-illustrations/02-sew-the-skill.png)
+![Fold the skill](output-examples/teach-ai-with-skills-illustrations/02-fold-the-skill.png)
 
-#### Install skill shelf
+#### Load skill box
 
-![Install skill shelf](output-examples/teach-ai-with-skills-illustrations/03-install-skill-shelf.png)
+![Load skill box](output-examples/teach-ai-with-skills-illustrations/03-load-skill-box.png)
 
 ## Make it yours
 
@@ -200,7 +200,7 @@ It also documents which changes are risky (removing style reference images, addi
     ├── agents/
     │   └── openai.yaml               ← Codex UI metadata (optional)
     ├── assets/
-    │   └── style-references/         ← 01–05 Tubik; 06–08 cast extensions
+    │   └── style-references/         ← 8 original character reference images
     └── references/
         ├── style-dna.md              ← palette, texture, hard bans
         ├── character-cast.md         ← the eight crew members, fully specified
@@ -222,12 +222,10 @@ It also documents which changes are risky (removing style reference images, addi
 This skill stands on two inspirations:
 
 - **[ian-xiaohei-illustrations](https://github.com/helloianneo/ian-xiaohei-illustrations)** by [Ian (helloianneo)](https://github.com/helloianneo) — the planning workflow (digest → shot list → generate one-by-one → QA → deliver), the idea of a recurring character IP that performs the core action, and the skill packaging pattern. This project reimagines that approach in English, with a different visual identity, agent-agnostic install paths, and a documented customization layer.
-- **[tubik.arts](https://dribbble.com/tubik_arts)** — the visual language and the original character world. Style references `01`–`05` in `crayon-crew-illustrations/assets/style-references/` are Tubik shots downloaded from [their Dribbble](https://dribbble.com/tubik_arts) and used as the skill's style anchors. References `06`–`08` (Otto, Milo, Spark) were generated later to extend the cast in that same aesthetic. Tubik retains rights to their original artwork.
+- **[tubik.arts](https://dribbble.com/tubik_arts)** — aesthetic inspiration only: warm cream paper, grainy crayon texture, charcoal + marigold restraint, bold patterns, and oversized-prop playfulness. No Tubik artwork is used or redistributed in this repository. The Crayon Crew cast and all style-reference images are original designs generated for this skill.
 
-See [NOTICE.md](NOTICE.md) for Ian / workflow attribution.
+See [NOTICE.md](NOTICE.md) for attribution details.
 
 ## License
 
-MIT for the skill text, scripts, generated cast extensions (`06`–`08`), and documentation in this repository.
-
-Style references `01`–`05` are **Tubik** artwork and are **not** covered by this MIT license. For commercial reuse of those images, check Tubik's licensing via [dribbble.com/tubik_arts](https://dribbble.com/tubik_arts).
+MIT

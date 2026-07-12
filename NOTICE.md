@@ -20,6 +20,6 @@ Author links:
 
 [tubik.arts](https://dribbble.com/tubik_arts) on Dribbble.
 
-See the README Acknowledgements for how style-reference images relate to Tubik's work.
+The cream / charcoal / marigold palette, grainy crayon texture, bold black-and-white patterns, oversized props, and playful character energy that define this skill's look are inspired by Tubik's illustration work. The Crayon Crew characters and all style-reference images bundled in this repository are original designs generated for this skill — no Tubik artwork is redistributed here.
 
 Dribbble profile: <https://dribbble.com/tubik_arts>

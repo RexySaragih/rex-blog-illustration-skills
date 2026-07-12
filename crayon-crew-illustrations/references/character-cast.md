@@ -8,27 +8,26 @@ Character consistency is the top priority of this skill. Always describe the cha
 
 The one who builds, draws, measures, and carries things.
 
-- Young woman with a sleek black bob haircut, straight bangs, and a small spiky topknot sticking straight up.
-- Round yellow-framed glasses.
-- White sailor-collar blouse with a striped neck bow and a short cape-like collar.
-- Black shorts or a black skirt.
-- Knee-high socks with black stripes.
-- Chunky sneakers: marigold yellow with laces, striped soles.
-- Calm, slightly smug, focused expression. Tiny dot eyes, small smile.
-- Signature props: a giant pencil carried over the shoulder, oversized cards or boards with yellow-and-black dot patterns.
+- Compact young woman with charcoal hair in a high messy bun, a small pencil stuck through the bun.
+- Large round charcoal-rimmed glasses. Round friendly face, tiny dot eyes, small confident smile, blush cheek dots.
+- Boxy warm-white top with wide black-and-white striped sleeves.
+- Marigold-yellow pinafore apron dress with one big front pocket holding pens and a ruler.
+- Black-and-white striped knee socks; chunky charcoal sneakers with marigold laces.
+- Calm, slightly smug, focused energy.
+- Signature props: a giant pencil carried over the shoulder or held like a flag, oversized clipboards with checklist doodles, rulers.
 
 Best for: creating, writing, drafting, measuring, carrying deliverables, executing a step.
 
 ## Fern — the thinker
 
-The one who ponders, reacts, and figures things out — often horizontally.
+The one who ponders, reacts, and figures things out — usually seated, slouched, or sprawled.
 
-- Round-faced person with a snug charcoal beanie, single blush dot on the cheek, tiny calm eyes.
-- Boxy shirt with a bold marigold-and-black chunky floral/leaf pattern, small neckerchief.
-- Wide black-and-white horizontally striped pants.
-- Striped socks with yellow bands, chunky black-and-white sneakers.
-- Often lounging, sprawled, legs up, absorbed in a phone, book, or device.
-- Signature props: a potted white daisy with a marigold center, speech bubbles ("!!!", "...", a yellow scribble-tangle bubble for confused thoughts).
+- Round-faced, soft-bodied person with short fluffy charcoal curls and one springy cowlick sticking up.
+- Tiny open charcoal dot eyes (default — never locked shut), blush cheek dots, cozy relaxed posture. Half-lidded sleepy eyes only as a rare expression when the shot is specifically about zoning out.
+- Oversized warm-white knitted sweater with bold charcoal wavy squiggle horizontal lines.
+- Wide charcoal trousers with tiny white polka dots, rolled at the ankle.
+- Marigold-and-black striped socks, simple warm-white sneakers.
+- Signature props: a giant steaming mug of tea (marigold with white dots), open books, a small potted plant, thought bubbles containing a marigold scribble-tangle, "!" and "..." marks.
 
 Best for: thinking, reading, debugging, being stuck, reacting, before/after mental states, consuming content.
 
@@ -36,11 +35,14 @@ Best for: thinking, reading, debugging, being stuck, reacting, before/after ment
 
 The one who delivers, presents, and connects.
 
-- Woman with voluminous curly black hair and a marigold beret.
-- Dress with puffy marigold sleeves, a white ruffled collar with black dots, a marigold pen-nib emblem on the bodice, and a bold black daisy pattern (marigold centers) on white.
-- Black-and-white striped socks/tights, black heeled shoes.
-- Warm, composed smile; graceful, slightly theatrical poses — often mid-leap with arms spread.
-- Signature props: a giant envelope tucked under her arm, letters, packages, banners, garlands of message icons (envelope, phone, hashtag, speech bubble) strung on a yellow scribble line.
+- Tall, slender, elegant woman with long legs and a long neck — the tallest of the crew.
+- Narrow oval face with a slightly pointed chin, tiny open charcoal dot eyes (always open — she is the messenger and needs an alert, present gaze), warm composed closed-mouth smile. No glasses.
+- Sleek straight charcoal hair in a low side-ponytail tied with a marigold ribbon bow.
+- Marigold-yellow boxy blouse with a small warm-white rounded collar.
+- Knee-length warm-white A-line skirt printed with large charcoal daisies with marigold centers.
+- Black-and-white gingham tights, charcoal mary-jane shoes with small heels.
+- Graceful, slightly theatrical poses — often skipping mid-stride.
+- Signature props: a giant envelope hugged under one arm, small letters fluttering behind her on a marigold scribble line, packages, banners.
 
 Best for: publishing, delivering, sending, announcing, handing off between stages, connecting two parties.
 
@@ -48,12 +50,14 @@ Best for: publishing, delivering, sending, announcing, handing off between stage
 
 The quiet one who collects, filters, and processes signals.
 
-- Person with very long, flowing pale/light hair and black headphones worn over it.
-- Full-body harlequin outfit: bold black-and-white checker pattern, loose sleeves.
-- Light/white relaxed pants.
-- Small serene face, often eyes closed or half-closed, absorbed in the signal.
-- Either low to the ground (seated, crouched) or gliding on chunky white roller skates with black wheels.
-- Signature props: headphones, a giant boombox/radio hoisted on the shoulder, checkered flowers, sound/signal scribbles.
+- Petite, small-framed androgynous person — the smallest human of the crew.
+- Warm-white/pale hair in two long thick braids reaching the floor, with straight blunt bangs.
+- Small heart-shaped face with a tiny nose and peaceful flat mouth — absorbed in the signal. Default expression: serene closed curved-lash eyes. Open tiny charcoal dot eyes only when the scene needs a more serious, focused presence (e.g. catching a critical signal, monitoring an alert, intentional filtering).
+- Big charcoal over-ear headphones with marigold ear cushions worn over the hair.
+- Boxy cropped top with a bold black-and-white checkerboard pattern.
+- Plain loose charcoal trousers cuffed at the ankle, warm-white socks, charcoal slip-on shoes.
+- Usually low to the ground: seated cross-legged or crouched close to the action.
+- Signature props: headphones, a giant old-fashioned gramophone horn, streams of marigold sound scribbles, collected notes in jars.
 
 Best for: listening, gathering input, filtering, research, monitoring, feedback loops, broadcasting/streaming.
 
@@ -104,10 +108,10 @@ Best for: searching, investigating, debugging by tracing, discovery, research ex
 
 The eager helper who fetches and carries.
 
-- Medium-sized floppy-eared dog, marigold yellow coat with large irregular black spots.
-- Simple dot eyes, cheerful expression (open-mouthed grin or contented closed eyes), big paws.
-- Sometimes wears a black-and-white checkered bandana around the neck.
-- Loves to hold and carry things: a giant pencil clamped in the mouth, flowers, small deliveries.
+- Small-to-medium scruffy terrier-like dog with a warm-white shaggy coat and large irregular marigold patches.
+- Floppy charcoal ears, charcoal nose, simple dot eyes, cheerful expression (open-mouthed grin or contented closed eyes).
+- Wears a marigold collar.
+- Loves to hold and carry things: rolled paper scrolls, pencils, flowers, small deliveries clamped in the mouth; tail mid-wag with motion scribbles.
 
 Best for: fetching, transporting, automation, the "tool that does the work," comic relief in group scenes.
 
@@ -128,3 +132,5 @@ Best for: fetching, transporting, automation, the "tool that does the work," com
 - The chosen character must perform the core action. Test: if you removed the character and the image still fully communicated the idea, the character is decoration — recast the scene.
 - Never invent new named characters. Anonymous background figures are not allowed either; the crew IS the world's population.
 - Never change a character's outfit, hair, or accessories. Their look is fixed. Poses, expressions, and props vary freely.
+- **Eyes:** Penny, Fern, Margo, Otto, Spark, Milo, and Doodle use tiny open charcoal dot eyes by default; closed/half-lidded eyes only when the moment specifically calls for sleepiness. **Margo always keeps her eyes open** — she is the messenger and needs an alert gaze. **Echo is the exception** — her default is serene closed curved-lash eyes; open her eyes only when the scene needs a more serious, focused presence. Do not lock anyone else into permanently closed eyes across every scene.
+- **Silhouette check:** every crew member has a deliberately different build and face — Penny compact with bun + round glasses; Fern round and soft with fluffy curls; Margo tall and slender with a narrow face; Echo petite with floor-length braids; Otto short and stocky with a mustache; Spark athletic with a goatee; Milo tall and lanky with curly hair. If two characters look alike in a generated image, it is off-model — regenerate.

@@ -60,11 +60,11 @@ Use only 1–2 hero objects per image. Oversize them boldly.
 
 The images in `assets/style-references/` calibrate texture, palette, and character design ONLY. Never copy their compositions:
 
-- Penny striding with the giant pencil and dotted card
-- The full-crew group high-five with Doodle holding the pencil
-- Fern lounging with legs up, phone, potted daisy, and speech bubbles
-- Echo on roller skates carrying the boombox while Doodle trots ahead with a checkered flower
-- Margo leaping under a garland of message icons (envelope, phone, hashtag, speech bubble)
+- Penny striding with the giant pencil over her shoulder and a clipboard
+- The full-crew group portrait / lineup with everyone posing for the camera (prefer a purposeful workshop-collab scene instead)
+- Fern sitting cross-legged with the giant tea mug, open book, and scribble thought bubble
+- Echo cross-legged beside the giant gramophone while Doodle lies with a paper scroll
+- Margo skipping with the giant envelope and letters fluttering behind her
 - Otto striding with the giant wrench over his shoulder and a toolbox
 - Spark casually holding the glowing marigold arc disc with a floating drone beside him
 - Milo peering through the giant magnifying glass following a footprint trail
