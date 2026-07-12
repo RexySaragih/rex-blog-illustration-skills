@@ -97,18 +97,18 @@ Edit this image: remove the "Workflow" text in the corner, keep everything else.
 
 ## The cast
 
-Eight recurring characters, fully specified in `crayon-crew-illustrations/references/character-cast.md`:
+Eight recurring characters, fully specified in [`crayon-crew-illustrations/references/character-cast.md`](crayon-crew-illustrations/references/character-cast.md):
 
-| Character | Role | Cast them for |
-|---|---|---|
-| **Penny** | The maker — messy bun with a pencil in it, round glasses, marigold pinafore, giant pencil | Creating, building, executing |
-| **Fern** | The thinker — fluffy curls, squiggle sweater, giant tea mug, thought scribbles | Thinking, reading, being stuck, reacting |
-| **Margo** | The messenger — tall and elegant, side-ponytail with ribbon, daisy skirt, giant envelope | Publishing, delivering, handoffs |
-| **Echo** | The listener — petite, floor-length pale braids, headphones, checkerboard top | Gathering input, filtering, feedback |
-| **Otto** | The builder — mustache, flat cap, polka-dot shirt, overalls, giant wrench | Fixing, assembling, infrastructure, maintenance |
-| **Spark** | The tech guy — goatee, marigold glasses, honeycomb jacket, glowing arc disc + drone | Inventing / demos / prototypes only — not every tech shot |
-| **Milo** | The explorer — curly hair, neckerchief, zigzag sweater, giant magnifying glass | Searching, investigating, discovery, roadmaps |
-| **Doodle** | The dog — scruffy white coat, marigold patches, scroll in mouth | Fetching, automation, comic relief |
+| | Character | Role | Cast them for |
+|:---:|---|---|---|
+| <img src="crayon-crew-illustrations/assets/style-references/01-penny-giant-pencil.png" width="64" alt="Penny"> | [**Penny**](crayon-crew-illustrations/references/character-cast.md#penny--the-maker) | The maker — messy bun with a pencil in it, round glasses, marigold pinafore | Creating, building, executing |
+| <img src="crayon-crew-illustrations/assets/style-references/03-fern-tea-thinking.png" width="64" alt="Fern"> | [**Fern**](crayon-crew-illustrations/references/character-cast.md#fern--the-thinker) | The thinker — fluffy curls, squiggle sweater, cozy posture | Thinking, reading, being stuck, reacting |
+| <img src="crayon-crew-illustrations/assets/style-references/05-margo-mail-flight.png" width="64" alt="Margo"> | [**Margo**](crayon-crew-illustrations/references/character-cast.md#margo--the-messenger) | The messenger — tall and elegant, side-ponytail with ribbon, daisy skirt | Publishing, delivering, handoffs |
+| <img src="crayon-crew-illustrations/assets/style-references/04-echo-gramophone-doodle.png" width="64" alt="Echo"> | [**Echo**](crayon-crew-illustrations/references/character-cast.md#echo--the-listener) | The listener — petite, floor-length pale braids, headphones, checkerboard top | Gathering input, filtering, feedback |
+| <img src="crayon-crew-illustrations/assets/style-references/06-otto-giant-wrench.png" width="64" alt="Otto"> | [**Otto**](crayon-crew-illustrations/references/character-cast.md#otto--the-builder) | The builder — mustache, flat cap, polka-dot shirt, overalls | Fixing, assembling, infrastructure, maintenance |
+| <img src="crayon-crew-illustrations/assets/style-references/08-spark-arc-disc.png" width="64" alt="Spark"> | [**Spark**](crayon-crew-illustrations/references/character-cast.md#spark--the-tech-guy) | The tech guy — goatee, marigold glasses, honeycomb jacket | Inventing / demos / prototypes only — not every tech shot |
+| <img src="crayon-crew-illustrations/assets/style-references/07-milo-magnifying-glass.png" width="64" alt="Milo"> | [**Milo**](crayon-crew-illustrations/references/character-cast.md#milo--the-explorer) | The explorer — curly hair, neckerchief, zigzag sweater | Searching, investigating, discovery, roadmaps |
+| <img src="crayon-crew-illustrations/assets/style-references/04-echo-gramophone-doodle.png" width="64" alt="Doodle"> | [**Doodle**](crayon-crew-illustrations/references/character-cast.md#doodle--the-dog) | The dog — scruffy white coat, marigold patches | Fetching, automation, comic relief |
 
 Their appearance never changes; their poses, props, and jobs change with every article. The eight images in `crayon-crew-illustrations/assets/style-references/` are the canonical look — the skill attaches them as style references on every generation, which is what keeps the output consistent. All eight are original references generated for this skill.
 
