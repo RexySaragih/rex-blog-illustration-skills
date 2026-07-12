@@ -26,7 +26,7 @@ Names (Penny, Fern, Margo, Echo, Doodle) only exist for the agent's internal cas
 
 ### Add a crew member
 
-Add a section to `character-cast.md` following the same format: appearance spec (precise enough to paste into a prompt), personality, signature props, "best for" casting guidance. Add at least one style reference image showing the new character, or accept lower consistency for them.
+Add a section to `character-cast.md` following the same format: appearance spec (precise enough to paste into a prompt), personality, optional prop ideas, "best for" casting guidance. Add at least one style reference image showing the new character, or accept lower consistency for them.
 
 ### Adjust the tone of metaphors
 

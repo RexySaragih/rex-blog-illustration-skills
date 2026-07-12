@@ -2,9 +2,15 @@
 
 Eight recurring characters. Every illustration features at least one of them actively performing the core conceptual action of the image. They are workers inside the idea, not mascots beside it.
 
-Character consistency is the top priority of this skill. Always describe the character's full appearance in the generation prompt (copy the spec below verbatim) and always attach the style reference images from `assets/style-references/` when the tool supports it.
+Character consistency is the top priority of this skill. Always describe the character's full appearance in the generation prompt (copy the appearance spec below verbatim) and always attach the style reference images from `assets/style-references/` when the tool supports it.
 
-Expressions can vary with the scene — follow each character's usual look as a starting point, not a rigid checklist.
+## Locked vs. free
+
+Consistency applies to **identity**, not to what the character is doing:
+
+- **Locked (copy verbatim into every prompt):** hair, face, body type, outfit, patterns, shoes, glasses/headphones — everything in the appearance bullets.
+- **Free (invent per scene):** pose, expression, mood, location in frame, and above all **props**. The character holds, carries, or operates whatever object the scene's metaphor demands — paper, ladders, jars, clotheslines, anything.
+- Each character lists **prop ideas** below. They are recognition aids and fallbacks for when a scene has no natural object — never requirements. Do NOT paste them into a prompt unless this specific scene actually uses that prop. Fern is still Fern holding a stack of paper instead of the tea mug.
 
 ## Penny — the maker
 
@@ -16,7 +22,7 @@ The one who builds, draws, measures, and carries things.
 - Marigold-yellow pinafore / overall dress with one big front pocket holding pens and a ruler.
 - Black-and-white striped knee socks; chunky charcoal high-top sneakers with marigold laces and white soles.
 - Calm, slightly smug, focused energy; usually mid-stride.
-- Signature props: a giant marigold pencil carried over the shoulder or held upright like a flag; oversized clipboards with checklist doodles; rulers.
+- Prop ideas (optional, scene decides): a giant marigold pencil carried over the shoulder or held upright like a flag; oversized clipboards with checklist doodles; rulers.
 
 Best for: creating, writing, drafting, measuring, carrying deliverables, executing a step.
 
@@ -29,7 +35,7 @@ The one who ponders, reacts, and figures things out — usually seated, slouched
 - Oversized warm-white knitted sweater with bold charcoal wavy squiggle horizontal lines across chest and sleeves.
 - Wide charcoal trousers with tiny white polka dots, rolled at the ankle.
 - Marigold-and-black horizontally striped socks; simple warm-white lace-up sneakers.
-- Signature props: a giant steaming mug of tea (marigold with white polka dots), open books on the lap, a small potted plant, thought bubbles containing a marigold scribble-tangle, "!" and "..." marks.
+- Prop ideas (optional, scene decides): a giant steaming mug of tea (marigold with white polka dots), open books on the lap, a small potted plant, thought bubbles containing a marigold scribble-tangle, "!" and "..." marks.
 
 Best for: thinking, reading, debugging, being stuck, reacting, before/after mental states, consuming content.
 
@@ -44,7 +50,7 @@ The one who delivers, presents, and connects.
 - Knee-length warm-white A-line skirt printed with large daisies (warm-white petals, marigold centers, charcoal outlines).
 - Black-and-white gingham / checkered tights; charcoal mary-jane shoes with a small chunky heel and strap.
 - Graceful, slightly theatrical poses — often skipping or striding mid-motion.
-- Signature props: a giant envelope hugged under one arm; small letters / envelopes fluttering behind her on a marigold scribble trail; packages; banners.
+- Prop ideas (optional, scene decides): a giant envelope hugged under one arm; small letters / envelopes fluttering behind her on a marigold scribble trail; packages; banners.
 
 Best for: publishing, delivering, sending, announcing, handing off between stages, connecting two parties.
 
@@ -59,7 +65,7 @@ The quiet one who collects, filters, and processes signals.
 - Boxy cropped short-sleeve top with a bold black-and-white checkerboard pattern.
 - Plain loose charcoal trousers cuffed / rolled at the ankle; warm-white socks; simple charcoal slip-on shoes.
 - Usually low to the ground: seated cross-legged or crouched close to the action.
-- Signature props: headphones; a giant old-fashioned gramophone with a marigold horn; streams of marigold sound scribbles and music-note doodles; collected notes in jars.
+- Prop ideas (optional, scene decides): headphones; a giant old-fashioned gramophone with a marigold horn; streams of marigold sound scribbles and music-note doodles; collected notes in jars.
 
 Best for: listening, gathering input, filtering, research, monitoring, feedback loops, broadcasting/streaming.
 
@@ -74,7 +80,7 @@ The one who fixes, assembles, and keeps the machinery running.
 - Charcoal overalls with one big marigold rectangular chest pocket and marigold buttons on the straps.
 - Chunky black work boots with white soles and white laces.
 - Cheerful, proud, capable bearing; carries heavy things effortlessly; usually mid-stride.
-- Signature props: a giant oversized wrench carried over the shoulder; a wooden toolbox; ladders; gears; measuring tape.
+- Prop ideas (optional, scene decides): a giant oversized wrench carried over the shoulder; a wooden toolbox; ladders; gears; measuring tape.
 
 Best for: fixing, assembling, maintenance, infrastructure, refactoring, setup and tooling, keeping systems running.
 
@@ -86,7 +92,7 @@ The brilliant inventor — Iron Man energy without the suit. Charismatic, a litt
 - Thin round marigold-rimmed glasses (lenses may read warm/yellow), often pushed slightly down the nose.
 - Fitted charcoal turtleneck under an open warm-white jacket / blazer with a bold black hexagonal honeycomb pattern on the inner lapels; marigold buttons.
 - Charcoal slim pants; chunky marigold-and-black sneakers with white soles.
-- Signature props: a glowing marigold circular arc-reactor-like disc held at the chest / in the palm; a small floating charcoal-and-marigold drone; tablets; hologram scribbles; cables; prototype boxes.
+- Prop ideas (optional, scene decides): a glowing marigold circular arc-reactor-like disc held at the chest / in the palm; a small floating charcoal-and-marigold drone; tablets; hologram scribbles; cables; prototype boxes.
 - Never wears armor or a metal suit — the tech is handheld/portable, the swagger is the suit.
 
 Best for: inventing a new gadget, product demos, "reveal the prototype," charismatic product-hero moments, and showman-style launches. Narrow lane — not a default for every tech topic.
@@ -103,7 +109,7 @@ The one who searches, investigates, and follows the trail.
 - Plain warm-white wide trousers rolled at the ankle.
 - Black-and-marigold horizontally striped socks; simple charcoal sneakers with white laces and white toe caps.
 - Leans forward, mid-step, always following something.
-- Signature props: a giant magnifying glass with a marigold rim and charcoal handle, held with both hands; a folded hand-drawn map tucked in the back pocket; dashed footprint trails on the ground; compasses; flags.
+- Prop ideas (optional, scene decides): a giant magnifying glass with a marigold rim and charcoal handle, held with both hands; a folded hand-drawn map tucked in the back pocket; dashed footprint trails on the ground; compasses; flags.
 
 Best for: searching, investigating, debugging by tracing, discovery, research expeditions, roadmaps, scouting new ideas.
 
@@ -136,3 +142,5 @@ Best for: fetching, transporting, automation, the "tool that does the work," com
 - The chosen character must perform the core action. Test: if you removed the character and the image still fully communicated the idea, the character is decoration — recast the scene.
 - Never invent new named characters. Anonymous background figures are not allowed either; the crew IS the world's population.
 - Keep each character's outfit, hair, and silhouette recognizable. Poses, expressions, and props can vary freely with the scene.
+- The "Best for" lines are casting hints, not fences. Any crew member can do any job when the scene calls for it — Fern can carry pages, Echo can climb a ladder, Margo can sort a pile. Recognizability comes from the appearance spec, not from repeating the same prop and pose.
+- Scene first, prop second: design the metaphor from the article, then hand the character whatever object that metaphor needs. Reaching for a character's prop idea by default (Fern → tea mug, Milo → magnifying glass) produces repetitive images — treat that as a smell.

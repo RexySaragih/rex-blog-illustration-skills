@@ -8,7 +8,7 @@ Run this on every generated image before delivering.
 - [ ] Background is warm cream — not white, not gray, not textured paper photo.
 - [ ] Grainy crayon/pencil texture is visible everywhere; nothing looks flat-vector.
 - [ ] Palette is strictly charcoal + marigold + cream + warm white (blush cheeks OK).
-- [ ] At least one Crayon Crew member is present and on-model (correct hair, outfit, accessories per `character-cast.md`).
+- [ ] At least one Crayon Crew member is present and on-model — correct hair, outfit, and worn accessories (glasses, headphones, neckerchief) per `character-cast.md`. Props are NOT part of on-model: holding a scene-specific object instead of their usual prop is correct, not a drift.
 - [ ] The character performs the core action — remove them mentally and the image should stop working.
 - [ ] Yellow scribble energy lines are present.
 - [ ] Exactly one core structure/idea per image.
@@ -20,7 +20,8 @@ Run this on every generated image before delivering.
 
 - A title like "Workflow" or "Process" appears in a corner.
 - Off-palette colors (blue, green, red, pink, purple) crept in.
-- The character drifted off-model: wrong glasses, wrong pattern, missing beret, extra characters invented.
+- The character drifted off-model: wrong glasses, wrong clothing pattern, wrong hair, extra characters invented. (A different prop or pose is not off-model.)
+- The same character + same signature prop combo repeats across a set (e.g. Fern with the tea mug twice) — vary the object with the scene.
 - It reads as a slide, flowchart, infographic, or course material.
 - Labels became sentences or paragraphs.
 - Garbled or misspelled label text.
@@ -37,7 +38,8 @@ Run this on every generated image before delivering.
 | Too crowded | Cut to 1 hero object, 1 character, 3–4 labels |
 | Too corporate | Remove boxes/grids/straight arrows; replace with hand-drawn objects and a winding scribble line |
 | Wrong colors | Restate the strict palette in the prompt with hex codes; list banned colors explicitly |
-| Character off-model | Paste the full character spec verbatim; re-attach style reference images |
+| Character off-model | Paste the full appearance spec verbatim; re-attach style reference images |
+| Repetitive prop/pose | Keep the character, swap in an object born from this article's metaphor |
 | Garbled text | Reduce label count to 3, shorten each to 1–2 words, regenerate |
 | Texture too flat | Emphasize "grainy crayon on toothy paper, visible pressure variation, rough fill edges" |
 | Copied a reference | Keep the core idea; swap the hero object and the character's action |

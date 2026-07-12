@@ -9,7 +9,7 @@ description: Design and generate hand-drawn crayon-style blog and article illust
 
 Designs and generates landscape in-article illustrations for blog posts, docs, newsletters, and methodology content. The goal is not commercial illustration or infographics: it is to take one key judgment, process, structure, state, or metaphor from the article and turn it into a warm, textured, hand-drawn editorial image that a reader understands within seconds.
 
-Every image uses the same visual world: cream paper background, grainy charcoal crayon linework, one accent color (marigold yellow), bold patterns (stripes, checkers, daisies), loose yellow scribble energy lines, oversized props, and a fixed cast of recurring characters called the Crayon Crew. A crew member must actively perform the core conceptual action of the image — never just stand beside a diagram as decoration.
+Every image uses the same visual world: cream paper background, grainy charcoal crayon linework, one accent color (marigold yellow), bold patterns (stripes, checkers, daisies), loose yellow scribble energy lines, oversized props, and a fixed cast of recurring characters called the Crayon Crew. A crew member must actively perform the core conceptual action of the image — never just stand beside a diagram as decoration. Only the characters' identity (hair, face, outfit) is fixed; their poses, expressions, and props are invented fresh for each scene — the metaphor decides what they hold and do.
 
 Each image includes 3–7 short handwritten English labels that explain the process or idea being shown.
 
@@ -46,7 +46,7 @@ If the user asks to plan, analyze, or "figure out where images should go," outpu
 - The single core idea it communicates
 - The structure type (see `references/composition-patterns.md`)
 - Which crew member(s) appear and what action they perform (cast by the cognitive action, not the topic — see `character-cast.md` casting rules; Spark is invent/demo only, not every tech shot)
-- Suggested objects and props
+- Suggested objects and props, invented from this article's metaphor — characters' signature props are optional fallbacks, not defaults
 - Suggested handwritten English labels (1–4 words each)
 
 Default to 3–6 shots. Short posts get 1–3; even long posts should rarely exceed 8. Enough is enough — do not turn the article into a picture book.
